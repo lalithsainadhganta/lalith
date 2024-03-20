@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background: linear-gradient(to right, #4e54c8, #8f94fb);
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+  }
+  h3{
+    text-decoration: underline;
+  }
+  
+  .about {
+    background: linear-gradient(to right, #11998e, #38ef7d);
+    color: white;
+    padding: 20px;
+  }
+  
+  .projects {
+    background: linear-gradient(to right, #ff9966, #ff5e62);
+    color:black;
+    padding: 20px;
+  }
+  
+  .project {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  footer {
+    background: linear-gradient(to right, #e0c3fc, #8ec5fc);
+    color: black;
+    text-align: center;
+    padding: 10px 0;
+  }
